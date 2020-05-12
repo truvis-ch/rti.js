@@ -1,0 +1,11 @@
+### ignored in both .gitignore and .npmignore
+*.DS_Store
+node_modules/
+doc/build/
+rtijs-examples-data/
+
+### ignore build/ in .gitignore, but not in .npmignore
+# build/
+
+### not ignored in .gitignore, but ignored in .npmignore
+examples/
