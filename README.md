@@ -21,7 +21,7 @@ Built with JavaScript, ThreeJS and WebGL.
 ### Preparation ###
 
 Before we start, you will need some RTI data to display.
-You can either export your own scene from [Authentica Creator](https://truvis.ch/authentica-creator/) using the 'Export for Web' feature or download example data from [here](https://storage.googleapis.com/truvis-downloads-data/rtijs/rtijs-example-data.zip).
+You can either export your own scene from [Authentica Creator](https://truvis.ch/authentica-creator/) using the 'Export for Web' feature or download example data from [here](https://storage.googleapis.com/truvis-downloads-data/rtijs/rtijs-examples-data.zip).
 
 
 You will also need a running web server to load and display the RTI texture data in a browser. Loading textures via the 'file://' protocol will fail due to the browsers' same origin policy. For more information, see [here](https://threejs.org/docs/#manual/en/introduction/How-to-run-things-locally).
@@ -83,7 +83,7 @@ Have a look at the source code of the examples included folder *examples*.
 
 We are working on providing more examples and documentation. Stay tuned!
 
-You can download the example data for reproducing these examples on your own from [here](https://storage.googleapis.com/truvis-downloads-data/rtijs/rtijs-example-data.zip).
+You can download the example data for reproducing these examples on your own from [here](https://storage.googleapis.com/truvis-downloads-data/rtijs/rtijs-examples-data.zip).
 
 
 
